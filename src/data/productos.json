@@ -11,5 +11,70 @@
         "pegi": "12",
         "stock": 15,
         "destacado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Elden Ring",
+        "precio": 49.99,
+        "descripcion": "Un RPG de acción de fantasí oscura creado por FromSoftware y George R. R. Martin.",
+        "imagen": "/img/chicoOrdenadorFoto.avif",
+        "plataforma": "PlayStation 5",
+        "genero": "RPG / Acción",
+        "desarrollador": "FromSoftware",
+        "pegi": "16",
+        "stock": 8,
+        "destacado": true
+    },
+    {
+        "id": 3,
+        "nombre": "Cyberpunk 2077: Ultimate Edition",
+        "precio": 39.99,
+        "descripcion": "Historia de acción y aventura en mundo abierto ambientada en la megalópolis de Night City.",
+        "imagen": "/img/componentesMiniaturaFoto.avif",
+        "plataforma": "PlayStation 5",
+        "genero": "RPG Futuro",
+        "desarrollador": "CD Projekt Red",
+        "pegi": "18",
+        "stock": 12,
+        "destacado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Super Mario Bros. Wonder",
+        "precio": 44.90,
+        "descripcion": "Vuelve la jugabilidad clásica de Mario en 2D con las nuevas Flores Maravilla",
+        "imagen": "/img/marioBrosFoto.avif",
+        "plataforma": "Nintendo Switch",
+        "genero": "Plataformas",
+        "desarrollador": "Nintendo",
+        "pegi": "3",
+        "stock": 20,
+        "destacado": true
+    },
+    {
+        "id": 5,
+        "nombre": "God of War Ragnarök",
+        "precio": 54.99,
+        "descripcion": "Kratos y Atreus viajan por los Nueve Reinos en busca de respuestas antes del Ragnarök.",
+        "imagen": "/img/fotoTeclado.avif",
+        "plataforma": "PlayStation 5",
+        "genero": "Acción / Aventura",
+        "desarrollador": "Santa Monica Studio",
+        "pegi": "18",
+        "stock": 10,
+        "destacado": true
+    },
+    {
+        "id": 6,
+        "nombre": "Hollow Knight",
+        "precio": 14.99,
+        "descripcion": "Forja tu propio camino en Hallownest, un vasto reino en ruinas de insectos y héroes.",
+        "imagen": "/img/maquinasRecreativasFoto.avif",
+        "plataforma": "Multiplataforma",
+        "genero": "Metroidvania",
+        "desarrollador": "Team Cherry",
+        "pegi": "7",
+        "stock": 25,
+        "destacado": true
     }
 ]
