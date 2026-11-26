@@ -76,5 +76,83 @@
         "pegi": "7",
         "stock": 25,
         "destacado": true
+    },
+    {
+        "id": 7,
+        "nombre": "EA Sports 25",
+        "precio": 64.99,
+        "descripcion": "El simulador de fútbol más completo con más de 19.000 futbolistas y ligas oficiales.",
+        "imagen": "/img/manosConMandosFoto.avif",
+        "plataforma": "PlayStation 5",
+        "genero": "Deportes",
+        "desarrollador": "EA Sport",
+        "pegi": "3",
+        "stock": 30,
+        "destacado": false
+    },
+    {
+        "id": 8,
+        "nombre": "Red Dead Redemption 2",
+        "precio": 29.99,
+        "descripcion": "América, 1899. Arthur Morgan yu la banda de Van der Linde huyen de los agentes federales.",
+        "imagen": "/img/castilloFoto.avif",
+        "plataforma": "PC / PS4 / Xbox",
+        "genero": "Acción / Western",
+        "desarrollador": "Rockstar Games",
+        "pegi": "18",
+        "stock": 14,
+        "destacado": false
+    },
+    {
+        "id": 9,
+        "nombre": "Minecraft Java & Bedrock Edition",
+        "precio": 24.95,
+        "descripcion": "Construye, explora y sobrevive en mundos infinitos generados de forma cúbica.",
+        "imagen": "/img/movilMinecraftFoto.avif",
+        "plataforma": "PC",
+        "genero": "Sandbox / Supervivencia",
+        "desarrollador": "Mojang",
+        "pegi": "7",
+        "stock": 50,
+        "destacado": false
+    },
+    {
+        "id": 10,
+        "nombre": "Baldur's Gate 3",
+        "precio": 59.99,
+        "descripcion": "Reúne a tu grupo y regresa a los Reinos Olvidados en una historia de compañerismo y rol.",
+        "imagen": "/img/mandoFoto2.avif",
+        "plataforma": "PC / PS5",
+        "genero": "RPG por turnos",
+        "desarrollador": "Larian Studios",
+        "pegi": "18",
+        "stock": 9,
+        "destacado": false
+    },
+    {
+        "id": 11,
+        "nombre": "Mario Kart 8 Deluxe",
+        "precio": 49.99,
+        "descripcion": "Compite en circuito de todo tipo en el juego de carreras más divertido de Nintendo.",
+        "imagen": "/img/playStation5Foto.avif",
+        "plataforma": "Nintendo Switch",
+        "genero": "Carreras",
+        "desarrollador": "Nintendo",
+        "pegi": "3",
+        "stock": 18,
+        "destacado": false
+    },
+    {
+        "id": 12,
+        "nombre": "The Witcher 3: Wild Hunt",
+        "precio": 19.99,
+        "descripcion": "Encarna al brujo Geralt de Rivia, un cazador de monstruos a sueldo en un mundo en guerra.",
+        "imagen": "/img/mandoFoto3.avif.avif",
+        "plataforma": "Multiplataforma",
+        "genero": "RPG / Fantasía",
+        "desarrollador": "CD Projekt Red",
+        "pegi": "18",
+        "stock": 22,
+        "destacado": false
     }
 ]
