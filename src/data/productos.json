@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "precio": 59.99,
+        "descripcion": "Explora las tierras y los cielos de Hyrule en esta aventura de mundo abierto.",
+        "imagen": "/img/mandoFoto.avif",
+        "plataforma": "Nintendo Switch",
+        "genero": "Aventura",
+        "desarrollador": "Nintendo",
+        "pegi": "12",
+        "stock": 15,
+        "destacado": true
+    }
+]
